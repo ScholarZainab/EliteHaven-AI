@@ -22,12 +22,4 @@ Expert Consultancy: Access professional solicitors for personalized advice on th
 Advanced Sorting Options: Narrow down your property search by price range, location, and other criteria to find the perfect match.
 24/7 Chatbot Support: Get instant answers to your queries anytime, anywhere, ensuring a hassle-free experience.
 Whether you're an investor, a first-time buyer, or looking to sell, EliteHaven Real Estate Listing Website is your one-stop solution for all real estate needs. Let us help you make confident and rewarding property decisions!
-
-
-
-
-
-
-
-
 `;
